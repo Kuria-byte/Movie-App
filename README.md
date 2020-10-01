@@ -27,8 +27,8 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 - live: https://movie-app-pi.vercel.app/
 
 ### References❤
-https://www.freecodecamp.org/news/learn-react-in-1-hour-by-building-a-movie-search-app/
-https://www.youtube.com/watch?v=ufodJVcpmps&ab_channel=TylerPotts
-http://www.omdbapi.com/
-https://vercel.com/
+- https://www.freecodecamp.org/news/learn-react-in-1-hour-by-building-a-movie-search-app/
+- https://www.youtube.com/watch?v=ufodJVcpmps&ab_channel=TylerPotts
+- http://www.omdbapi.com/
+- https://vercel.com/
 
