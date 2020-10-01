@@ -1,5 +1,4 @@
 # Intro
-![mov](https://user-images.githubusercontent.com/61579772/94806528-a9d97f00-0420-11eb-8aa5-b50052a93609.jpg)
 ![mov2](https://user-images.githubusercontent.com/61579772/94806520-a7772500-0420-11eb-94ae-bba9701577b6.jpg)
 ![mov3](https://user-images.githubusercontent.com/61579772/94806526-a9d97f00-0420-11eb-8e20-dcd21aef178a.jpg)
 - live: https://movie-app-pi.vercel.app/
@@ -26,6 +25,9 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
+
+####  Hosted on vercel
+- live: https://movie-app-pi.vercel.app/
 
 ### References❤
 https://www.freecodecamp.org/news/learn-react-in-1-hour-by-building-a-movie-search-app/
